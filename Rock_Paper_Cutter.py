@@ -9,7 +9,6 @@ user_score = 0
 machine_score = 0
 
 
-
 while True:
     try:
         user_score = user_score

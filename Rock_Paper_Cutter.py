@@ -1,13 +1,15 @@
 import random
 
 print("")
+print("         Developed By SpiderX")
+
+print("")
 print("     ----- Choose Anything -----")
 print("1. Rock     - 2. Paper     - 3. Scissors")
 
 # score board
 user_score = 0
 machine_score = 0
-
 
 while True:
     try:

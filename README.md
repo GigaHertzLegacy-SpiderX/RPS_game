@@ -1,3 +1,6 @@
+## Hacktoberfest-2021
+Now the Codes is Free to use and edit !
+
 # RPS_game
 RPS --> Rock, Paper, Scissors
 
